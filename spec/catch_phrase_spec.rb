@@ -15,6 +15,4 @@ describe "#catch_phrase" do
   end
 end
 
-def catch_phrase
-         puts phrase
-       end
+
